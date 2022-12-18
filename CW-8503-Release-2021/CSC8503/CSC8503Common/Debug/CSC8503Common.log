@@ -1,0 +1,4 @@
+﻿  CollisionDetection.cpp
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Game Technologies\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(47,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Game Technologies\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(48,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  CSC8503Common.vcxproj -> C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Game Technologies\8503 Release  2021\Win32\Debug\CSC8503Common.lib

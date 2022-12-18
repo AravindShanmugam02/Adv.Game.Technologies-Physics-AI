@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Game Technologies\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(47,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Game Technologies\8503 Release  2021\CSC8503\CSC8503Common\CollisionDetection.h(48,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Game Technologies\8503 Release  2021\CSC8503\GameTech\Main.cpp(554,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameTech.vcxproj -> C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Game Technologies\8503 Release  2021\Win32\Debug\GameTech.exe
